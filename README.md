@@ -6,3 +6,5 @@ This repo is the central hub for storing and organising my ML/DL and Data scienc
 ## To Do List
 
 ## All Projects
+[Linear Regression]([https://github.com/jacksonjgee/linear-regression-house-prices](https://github.com/jacksonjgee/linear-regression))
+Predicting house prices using a linear regression model, leaning about the Data science project life cycle and basic modeling.
