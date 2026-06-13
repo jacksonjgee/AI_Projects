@@ -4,6 +4,7 @@ This repo is the central hub for storing and organising my ML/DL and Data scienc
 ## Interesting Project
 
 ## To Do List
+Create a Web-Scraping tool
 
 ## All Projects
 
