@@ -2,7 +2,13 @@
 This repo is the central hub for storing and organising my ML/DL and Data science project repos.
 
 ## To Do List
-Create a Web-Scraping tool
+- Logistic Regression from Scratch
+- K-Nearest Neighbours Classifier
+- Decision Tree Classifier
+- Random Forest Classifier
+- Naive Bayes Classifier
+- Support Vector Machine
+- K-Means Clustering
 
 ## All Projects
 
