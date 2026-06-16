@@ -14,3 +14,6 @@ This repo is the central hub for storing and organising my ML/DL and Data scienc
 
 [Linear Regression](https://github.com/jacksonjgee/linear-regression)<br>
 Predicting house prices using a linear regression model, learning about the data science project life cycle and basic modelling.
+
+[Bank Marketing Logistic Regression](https://github.com/jacksonjgee/bank-marketing-logistic-regression)<br>
+Predicting customer term-deposit subscriptions using logistic regression.
