@@ -17,3 +17,6 @@ Predicting house prices using a linear regression model, learning about the data
 
 [Bank Marketing Logistic Regression](https://github.com/jacksonjgee/bank-marketing-logistic-regression)<br>
 Predicting customer term-deposit subscriptions using logistic regression.
+
+[Salary Linear Regression From Scratch](https://github.com/jacksonjgee/Salary-Linear-Regression-From-Scratch)
+A from-scratch implementation of simple linear regression using Python and NumPy, including gradient descent, model evaluation, and data visualisation.
