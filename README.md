@@ -19,4 +19,4 @@ Predicting house prices using a linear regression model, learning about the data
 Predicting customer term-deposit subscriptions using logistic regression.
 
 [Salary Linear Regression From Scratch](https://github.com/jacksonjgee/Salary-Linear-Regression-From-Scratch)
-A from-scratch implementation of simple linear regression using Python and NumPy, including gradient descent, model evaluation, and data visualisation.
+A from-scratch implementation of simple linear regression using Python and Pandas, including gradient descent, model evaluation, and data visualisation.
