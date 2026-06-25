@@ -9,7 +9,7 @@ This repo is the central hub for storing and organising my ML/DL and Data scienc
 - Support Vector Machine
 - K-Means Clustering
 
-## Interesting Projects
+## Best Projects
 
 [Cancer Logistic Regression From Scratch](https://github.com/jacksonjgee/Cancer-Logistic-Regression-From-Scratch)<br>
 A from-scratch logistic regression implementation using NumPy, tested on the Breast Cancer Wisconsin dataset, with matplotlib visualisations. I also create a detailed theory and implementation guide explaining how the model works under the hood.
