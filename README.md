@@ -36,3 +36,6 @@ A from-scratch implementation of simple linear regression using Python and Panda
 
 [Cancer Logistic Regression From Scratch](https://github.com/jacksonjgee/Cancer-Logistic-Regression-From-Scratch)<br>
 A from-scratch logistic regression implementation using NumPy, tested on the Breast Cancer Wisconsin dataset, with matplotlib visualisations. I also create a detailed theory and implementation guide explaining how the model works under the hood.
+
+[K-Nearest Neighbour Classifier From Scratch](https://github.com/jacksonjgee/K-Nearest-Neighbour-From-Scratch)
+A simple implementation of the K-Nearest Neighbours algorithm implemented from scratch using numpy, including manual calculatioin of Euclidean distance, finding the nearest neighbours, and using majority voting to classify new data points.
